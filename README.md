@@ -7,7 +7,7 @@
 
 ## Overview
 
-Developed Agri Chat, Crop Demand Forecast Model, 
+Developed Agri Chat, Crop Demand Forecast Model.
 
 ## Technologies Used
 
